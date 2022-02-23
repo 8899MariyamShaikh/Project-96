@@ -1,0 +1,15 @@
+body {
+    background-color: lightsteelblue;
+}
+
+.welcome_div {
+    background-color: whitesmoke;
+}
+
+.input_div_message_page {
+    background-color: whitesmoke;
+}
+
+#output {
+    background-color: whitesmoke;
+}
